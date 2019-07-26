@@ -1,0 +1,3 @@
+FROM wkj89/debug:latest
+COPY entry_point.py /
+ENTRYPOINT ["python","/entry_point.py"]
