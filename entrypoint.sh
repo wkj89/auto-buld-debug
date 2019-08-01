@@ -1,2 +1,2 @@
 #!/bin/bash
-python a.py
+python /code/a.py
